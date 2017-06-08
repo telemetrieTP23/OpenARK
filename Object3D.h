@@ -1,5 +1,4 @@
 #pragma once
-
 // OpenARK Libraries
 #include "Hand.h"
 #include "Plane.h"

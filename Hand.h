@@ -14,6 +14,8 @@
 
 class Hand {
 public:
+
+
 	// Public constructors
 	/**
 	* Default constructor for a hand object

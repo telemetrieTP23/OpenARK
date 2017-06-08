@@ -1,5 +1,5 @@
 #pragma once
-#include <opencv/cxcore.h>
+//OpenCV libraries
 #include "opencv2/highgui/highgui.hpp"
 
 /**

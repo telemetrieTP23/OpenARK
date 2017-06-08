@@ -1,11 +1,8 @@
 #pragma once
-
 // C++ Libraries
 #include <iostream>
 
 // OpenCV Libraries
-#include <opencv/cxcore.h>
-#include <opencv/highgui.h>
 #include "opencv2/highgui/highgui.hpp"
 #include <opencv2/video/tracking.hpp>
 #include "opencv2/imgproc/imgproc.hpp"

@@ -2,9 +2,6 @@
 // C++ Libraries
 #include <deque>
 
-// OpenCV Libraries
-#include <opencv/cxcore.h>
-
 // OpenARK Libraries
 #include "Util.h"
 
