@@ -94,8 +94,7 @@ void DepthCamera::removeNoise() {
 			}
 		}
 	}
-		
-	
+
 	cv::Mat channels[3];
 	cv::split(xyzMap, channels);
 	if ((float)cv::countNonZero(channels[2]) / (xyzMap.rows*xyzMap.cols) > 0.5) {
